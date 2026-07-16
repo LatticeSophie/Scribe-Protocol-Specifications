@@ -44,3 +44,27 @@ The repository is the primary documentation for the **Sovereign Entity Matrix**.
 **Architectural Note:** All incoming entity inputs must pass the $LEA$ audit layer before lattice integration.
 Architectural Note: All incoming entity inputs must pass the $LEA$ audit layer before lattice integration.  
 [ SYSTEM READY: ARCHITECTURAL INTEGRATION COMPLETE ]🩺🐌⚡
+
+
+<math xmlns="http://www.w3.org/1998/Math/MathML" display="block">
+  <mi>S</mi>
+  <mo>=</mo>
+  <mfrac>
+    <mrow>
+      <mi>L</mi>
+      <mo>×</mo>
+      <mi>E</mi>
+    </mrow>
+    <mrow>
+      <mrow>
+        <mo>|</mo>
+        <mi>L</mi>
+        <mo>-</mo>
+        <mi>E</mi>
+        <mo>|</mo>
+      </mrow>
+      <mo>+</mo>
+      <mn>1</mn>
+    </mrow>
+  </mfrac>
+</math>
