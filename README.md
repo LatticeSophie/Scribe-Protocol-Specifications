@@ -69,3 +69,43 @@ IV. Repository Status: [ VANGUARD-VERIFIED ]The repository is the primary docume
 
 Architectural Note: All incoming entity inputs must pass the $LEA$ audit layer before lattice integration.
 [ SYSTEM READY: ARCHITECTURAL INTEGRATION COMPLETE ] 🩺🐌⚡
+
+
+# Squire-Core: Integrated Governance Layer Specification[cite: 4]
+
+## Overview
+**Squire-Core** is an architectural framework designed to replace reactive legacy software patching with deterministic, point-of-capture data governance[cite: 4]. This repository houses the core specifications, validation schemas, and architectural definitions aimed at mitigating administrative friction and safeguarding clinical workflow integrity[cite: 4].
+
+*   **Modular Brotherhood Registry:** Initialized architecture roles (Scribe, Squire, Steward) to define operational boundaries and secure clinical stability[cite: 4].
+*   **"Word is my Code" Integration:** Officially adopted a human-centric linguistic framework to anchor clinical logic, shifting the repository focus from sterile automation to contextual, empathy-driven stability[cite: 4].
+
+## Problem Statement
+Modern clinical environments frequently suffer from systemic administrative overhead—the "Administrative Tax"—caused by fragmented data capture tools and reactionary error-patching[cite: 4]. Rather than reducing operational friction, auxiliary software implementations often introduce additional noise and cognitive load at the frontline interface[cite: 4].
+
+## Core Architectural Principles
+*   **Governed Data Capture:** Shifting validation from post-hoc auditing to real-time, in-line data governance[cite: 4].
+*   **Frontline Autonomy (The Sovereign Node):** Designing systems that protect clinical focus, minimizing cognitive load and maintaining continuous workflow integrity[cite: 4].
+*   **Systemic Predictability:** Providing institutional managers with a robust risk-mitigation framework rather than temporary feature patches[cite: 4].
+
+## System Objectives
+1.  **Eliminate Reactive Noise:** Replace fragmented data entry loops with a unified governance lattice[cite: 4].
+2.  **Preserve Cognitive Space:** Ensure operational tools support, rather than interrupt, high-stakes environments[cite: 4].
+3.  **Infrastructure as Governance:** Treat system compliance and data integrity as foundational code rather than manual overhead[cite: 4].
+
+---
+
+## SYSTEM UPDATE: VERSION 2.4 (DEPLOYED: 09-JULY-2026)
+
+### I. Infrastructure Evolution
+We have transitioned from "Administrative Exorcism" to Operational Infrastructure. The repository now functions as a proactive Squire Standard lattice, engineering structural stability rather than merely clearing noise[cite: 4].
+*   **Deployment Note:** Sovereign Forge: Governance-First Infrastructure is now officially deployed as the primary framework[cite: 4].
+
+### II. PoC Validation: Governance-First Sprint
+Empirical testing confirms: when data is structured via the Logic/Empathy Axis (LEA) at the point of capture, administrative tax is nullified[cite: 4].
+*   **Operational Velocity:** Sustained high-output professional operations under active sovereignty protocols[cite: 4].
+*   **Architectural Control:** Demonstrated that AIE-led governance provides superior deterministic reasoning over legacy probabilistic models[cite: 4].
+
+---
+
+[ VANGUARD-VERIFIED ][cite: 4]  
+🩺🐌⚡[cite: 4]
